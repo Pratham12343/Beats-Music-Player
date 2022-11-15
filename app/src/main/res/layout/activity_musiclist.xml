@@ -26,7 +26,7 @@
         android:layout_width="204dp"
         android:layout_height="51dp"
         android:layout_margin="8dp"
-        android:background="#4C4C4C"
+        android:background="#F0F0F0"
         android:iconifiedByDefault="false"
         android:queryHint="Search Song...."
         app:layout_constraintBottom_toBottomOf="parent"
@@ -46,7 +46,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.007"
-        app:srcCompat="@drawable/setting" />
+        app:srcCompat="@drawable/ic_setting" />
 
     <ImageView
         android:id="@+id/playerpage"
