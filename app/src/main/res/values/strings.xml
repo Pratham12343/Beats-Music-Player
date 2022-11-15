@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">BeatsMusic</string>
+    <string name="name">name</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="sign_up">signup</string>
+    <string name="already_have_an_account">already have an account ?</string>
+    <string name="login">login</string>
+    <string name="hindi">hindi</string>
+    <string name="english">english</string>
+    <string name="OTHER">other</string>
+    <string name="textview">textview</string>
+    <string name="settings">settings</string>
+    <string name="account">Account</string>
+    <string name="profile_name">Profile Name</string>
+    <string name="profileemail">profile email</string>
+    <string name="data">data</string>
+    <string name="datasaver">data saver</string>
+    <string name="language">language</string>
+    <string name="languageformusic">language for music</string>
+    <string name="chooseyourpreferredlanguageformusic">Choose langue for music</string>
+    <string name="about">About</string>
+    <string name="version">Version</string>
+    <string name="support">support</string>
+    <string name="gethelpfromusandthecommunity">Get help from us and the community</string>
+    <string name="logout">Log Out</string>
+    <string name="don_t_have_an_account">Dont have an account ?</string>
+</resources>

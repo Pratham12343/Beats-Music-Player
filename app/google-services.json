@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "962357429829",
+    "project_id": "beatsmusic-ef651",
+    "storage_bucket": "beatsmusic-ef651.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962357429829:android:d9dee602fee6c94b4a052c",
+        "android_client_info": {
+          "package_name": "com.example.beatsmusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962357429829-d3l5vl0l9klqoc35vqmoon1q7h5f1344.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqOKJA2ooXthLvlE8E0_KY86kYxYzVK9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962357429829-d3l5vl0l9klqoc35vqmoon1q7h5f1344.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
